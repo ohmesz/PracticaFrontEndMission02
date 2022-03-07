@@ -1,2 +1,2 @@
 # PracticaFrontEndMission02
-website for cake shop
+website for cake shop v1
